@@ -27,3 +27,6 @@
 - Delete messages from every account
 - Change user's status (user/admin/banned user)
 <img src="/mb_img/admin2.png" width="400">
+
+##### Banned user:
+- A banned account will be temporarily unavailable to send messages
